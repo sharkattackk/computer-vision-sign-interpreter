@@ -1,0 +1,10 @@
+^C:\USERS\CAMER\ONEDRIVE\DESKTOP\CMPE 320\SIGNINTERPRETER\BUILD\CMAKEFILES\EB536B5D621620843A671DC985FDCA9B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" "-SC:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter" "-BC:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/signInterpreter.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

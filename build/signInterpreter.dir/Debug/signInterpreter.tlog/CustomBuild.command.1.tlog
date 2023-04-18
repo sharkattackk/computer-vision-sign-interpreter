@@ -1,0 +1,10 @@
+^C:\USERS\CAMER\ONEDRIVE\DESKTOP\CMPE 320\SIGNINTERPRETER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" "-SC:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter" "-BC:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build" --check-stamp-file "C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,9 @@
+C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/Experimental.dir
+C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/Nightly.dir
+C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/Continuous.dir
+C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/signInterpreter.dir
+C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/PACKAGE.dir
+C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/camer/OneDrive/Desktop/CMPE 320/signInterpreter/build/CMakeFiles/ZERO_CHECK.dir
